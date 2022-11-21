@@ -1,0 +1,3 @@
+-- This script belongs to "ServerScriptService" and it requies to be a "Script". This will wont work on "LocalScript" or "ModuleScript".
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/iCherryKardes/Doors-Assets/main/Lighting%20Source"))()
+	Library:RunSource()
