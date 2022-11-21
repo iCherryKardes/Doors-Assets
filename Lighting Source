@@ -1,4 +1,4 @@
--- This script belongs to "ServerScriptService" and it requies to be a "Script". This will wont work on "LocalScript" or "ModuleScript".
+-- This lua script is a source. Do not use this as a script.
 local Setting = game.Lighting
 local RunSource = {}
 	Setting.Ambient = Color3.new(0.541176, 0.541176, 0.541176)
