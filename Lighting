@@ -1,0 +1,22 @@
+-- This script belongs to "ServerScriptService" and it requies to be a "Script". This will wont work on "LocalScript" or "ModuleScript".
+local Setting = game.Lighting
+local RunSource = {}
+	Setting.Ambient = Color3.new(0.541176, 0.541176, 0.541176)
+	Setting.Brightness = "0"
+	Setting.ColorShift_Bottom = Color3.new(0,0,0)
+	Setting.ColorShift_Top = Color3.new(0,0,0)
+	Setting.EnvironmentDiffuseScale = "0"
+	Setting.EnvironmentSpecularScale = "0"
+	Setting.GlobalShadows = true
+	Setting.OutdoorAmbient = Color3.new(0.501961, 0.501961, 0.501961)
+	Setting.ShadowSoftness = "0.56"
+	Setting.Technology = "Future"
+	Setting.Archivable = true
+	Setting.ClockTime = "11"
+	Setting.GeographicLatitude = "41.733"
+	Setting.Name = "Lighting"
+	Setting.TimeOfDay = "11:00:00"
+	Setting.ExposureCompensation = "0"
+	Setting.FogColor = Color3.new(0.109804, 0.105882, 0.137255);
+	Setting.FogEnd = "100000"
+	Setting.FogStart = 0
